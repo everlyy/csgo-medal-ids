@@ -1,3 +1,108 @@
+874;5 Year Veteran Coin
+875;Champion at DreamHack 2013
+876;Finalist at DreamHack 2013
+877;Semifinalist at DreamHack 2013
+878;Quarterfinalist at DreamHack 2013
+879;Champion at EMS One Katowice 2014
+880;Finalist at EMS One Katowice 2014
+881;Semifinalist at EMS One Katowice 2014
+882;Quarterfinalist at EMS One Katowice 2014
+883;Champion at ESL One Cologne 2014
+884;Finalist at ESL One Cologne 2014
+885;Semifinalist at ESL One Cologne 2014
+886;Quarterfinalist at ESL One Cologne 2014
+887;Bronze Cologne 2014 Pick'Em Trophy
+888;Silver Cologne 2014 Pick'Em Trophy
+889;Gold Cologne 2014 Pick'Em Trophy
+890;Champion at DreamHack Winter 2014
+891;Finalist at DreamHack Winter 2014
+892;Semifinalist at DreamHack Winter 2014
+893;Quarterfinalist at DreamHack Winter 2014
+894;Bronze DreamHack 2014 Pick'Em Trophy
+895;Silver DreamHack 2014 Pick'Em Trophy
+896;Gold DreamHack 2014 Pick'Em Trophy
+897;Champion at ESL One Katowice 2015
+898;Finalist at ESL One Katowice 2015
+899;Semifinalist at ESL One Katowice 2015
+900;Quarterfinalist at ESL One Katowice 2015
+901;Bronze Katowice 2015 Pick'Em Trophy
+902;Silver Katowice 2015 Pick'Em Trophy
+903;Gold Katowice 2015 Pick'Em Trophy
+904;Champion at ESL One Cologne 2015
+905;Finalist at ESL One Cologne 2015
+906;Semifinalist at ESL One Cologne 2015
+907;Quarterfinalist at ESL One Cologne 2015
+908;Bronze Cologne 2015 Pick'Em Trophy
+909;Silver Cologne 2015 Pick'Em Trophy
+910;Gold Cologne 2015 Pick'Em Trophy
+911;Bronze Cluj-Napoca 2015 Pick'Em Trophy
+912;Silver Cluj-Napoca 2015 Pick'Em Trophy
+913;Gold Cluj-Napoca 2015 Pick'Em Trophy
+917;Champion at DreamHack Cluj-Napoca 2015
+918;Finalist at DreamHack Cluj-Napoca 2015
+919;Semifinalist at DreamHack Cluj-Napoca 2015
+920;Quarterfinalist at DreamHack Cluj-Napoca 2015
+921;Bronze Columbus 2016 Pick'Em Trophy
+922;Silver Columbus 2016 Pick'Em Trophy
+923;Gold Columbus 2016 Pick'Em Trophy
+927;Champion at MLG Columbus 2016
+928;Finalist at MLG Columbus 2016
+929;Semifinalist at MLG Columbus 2016
+930;Quarterfinalist at MLG Columbus 2016
+931;Champion at ESL One Cologne 2016
+932;Finalist at ESL One Cologne 2016
+933;Semifinalist at ESL One Cologne 2016
+934;Quarterfinalist at ESL One Cologne 2016
+935;Bronze Cologne 2016 Pick'Em Trophy
+936;Silver Cologne 2016 Pick'Em Trophy
+937;Gold Cologne 2016 Pick'Em Trophy
+941;Champion at ELEAGUE Atlanta 2017
+942;Finalist at ELEAGUE Atlanta 2017
+943;Semifinalist at ELEAGUE Atlanta 2017
+944;Quarterfinalist at ELEAGUE Atlanta 2017
+945;Bronze Atlanta 2017 Pick'Em Trophy
+946;Silver Atlanta 2017 Pick'Em Trophy
+947;Gold Atlanta 2017 Pick'Em Trophy
+948;Champion at PGL Krakow 2017
+949;Finalist at PGL Krakow 2017
+950;Semifinalist at PGL Krakow 2017
+951;Quarterfinalist at PGL Krakow 2017
+952;Bronze Krakow 2017 Pick'Em Trophy
+953;Silver Krakow 2017 Pick'Em Trophy
+954;Gold Krakow 2017 Pick'Em Trophy
+955;Champion at ELEAGUE Boston 2018
+956;Finalist at ELEAGUE Boston 2018
+957;Semifinalist at ELEAGUE Boston 2018
+958;Quarterfinalist at ELEAGUE Boston 2018
+959;Bronze Boston 2018 Pick'Em Trophy
+960;Silver Boston 2018 Pick'Em Trophy
+961;Gold Boston 2018 Pick'Em Trophy
+962;Champion at FACEIT London 2018
+963;Finalist at FACEIT London 2018
+964;Semifinalist at FACEIT London 2018
+965;Quarterfinalist at FACEIT London 2018
+966;Bronze London 2018 Pick'Em Trophy
+967;Silver London 2018 Pick'Em Trophy
+968;Gold London 2018 Pick'Em Trophy
+969;10 Year Veteran Coin
+970;Loyalty Badge
+971;Champion at IEM Katowice 2019
+972;Finalist at IEM Katowice 2019
+973;Semifinalist at IEM Katowice 2019
+974;Quarterfinalist at IEM Katowice 2019
+975;Champion at StarLadder Berlin 2019
+976;Finalist at StarLadder Berlin 2019
+977;Semifinalist at StarLadder Berlin 2019
+978;Quarterfinalist at StarLadder Berlin 2019
+979;Champion at PGL Stockholm 2021
+980;Finalist at PGL Stockholm 2021
+981;Semifinalist at PGL Stockholm 2021
+982;Quarterfinalist at PGL Stockholm 2021
+983;Champion at PGL Antwerp 2022
+984;Finalist at PGL Antwerp 2022
+985;Semifinalist at PGL Antwerp 2022
+986;Quarterfinalist at PGL Antwerp 2022
+987;10 Year Birthday Coin
 1001;Operation Payback Challenge Coin
 1002;Silver Operation Payback Coin
 1003;Gold Operation Payback Coin
@@ -175,6 +280,10 @@
 4827;Antwerp 2022 Silver Coin
 4828;Antwerp 2022 Gold Coin
 4829;Antwerp 2022 Diamond Coin
+4851;Rio 2022 Coin
+4852;Rio 2022 Silver Coin
+4853;Rio 2022 Gold Coin
+4854;Rio 2022 Diamond Coin
 6001;Genuine Dust II Pin
 6002;Genuine Guardian Elite Pin
 6003;Genuine Mirage Pin
@@ -243,107 +352,3 @@
 6132;Howl Pin
 6133;Brigadier General Pin
 6134;Alyx Pin
-874;5 Year Veteran Coin
-875;Champion at DreamHack 2013
-876;Finalist at DreamHack 2013
-877;Semifinalist at DreamHack 2013
-878;Quarterfinalist at DreamHack 2013
-879;Champion at EMS One Katowice 2014
-880;Finalist at EMS One Katowice 2014
-881;Semifinalist at EMS One Katowice 2014
-882;Quarterfinalist at EMS One Katowice 2014
-883;Champion at ESL One Cologne 2014
-884;Finalist at ESL One Cologne 2014
-885;Semifinalist at ESL One Cologne 2014
-886;Quarterfinalist at ESL One Cologne 2014
-887;Bronze Cologne 2014 Pick'Em Trophy
-888;Silver Cologne 2014 Pick'Em Trophy
-889;Gold Cologne 2014 Pick'Em Trophy
-890;Champion at DreamHack Winter 2014
-891;Finalist at DreamHack Winter 2014
-892;Semifinalist at DreamHack Winter 2014
-893;Quarterfinalist at DreamHack Winter 2014
-894;Bronze DreamHack 2014 Pick'Em Trophy
-895;Silver DreamHack 2014 Pick'Em Trophy
-896;Gold DreamHack 2014 Pick'Em Trophy
-897;Champion at ESL One Katowice 2015
-898;Finalist at ESL One Katowice 2015
-899;Semifinalist at ESL One Katowice 2015
-900;Quarterfinalist at ESL One Katowice 2015
-901;Bronze Katowice 2015 Pick'Em Trophy
-902;Silver Katowice 2015 Pick'Em Trophy
-903;Gold Katowice 2015 Pick'Em Trophy
-904;Champion at ESL One Cologne 2015
-905;Finalist at ESL One Cologne 2015
-906;Semifinalist at ESL One Cologne 2015
-907;Quarterfinalist at ESL One Cologne 2015
-908;Bronze Cologne 2015 Pick'Em Trophy
-909;Silver Cologne 2015 Pick'Em Trophy
-910;Gold Cologne 2015 Pick'Em Trophy
-911;Bronze Cluj-Napoca 2015 Pick'Em Trophy
-912;Silver Cluj-Napoca 2015 Pick'Em Trophy
-913;Gold Cluj-Napoca 2015 Pick'Em Trophy
-917;Champion at DreamHack Cluj-Napoca 2015
-918;Finalist at DreamHack Cluj-Napoca 2015
-919;Semifinalist at DreamHack Cluj-Napoca 2015
-920;Quarterfinalist at DreamHack Cluj-Napoca 2015
-921;Bronze Columbus 2016 Pick'Em Trophy
-922;Silver Columbus 2016 Pick'Em Trophy
-923;Gold Columbus 2016 Pick'Em Trophy
-927;Champion at MLG Columbus 2016
-928;Finalist at MLG Columbus 2016
-929;Semifinalist at MLG Columbus 2016
-930;Quarterfinalist at MLG Columbus 2016
-931;Champion at ESL One Cologne 2016
-932;Finalist at ESL One Cologne 2016
-933;Semifinalist at ESL One Cologne 2016
-934;Quarterfinalist at ESL One Cologne 2016
-935;Bronze Cologne 2016 Pick'Em Trophy
-936;Silver Cologne 2016 Pick'Em Trophy
-937;Gold Cologne 2016 Pick'Em Trophy
-941;Champion at ELEAGUE Atlanta 2017
-942;Finalist at ELEAGUE Atlanta 2017
-943;Semifinalist at ELEAGUE Atlanta 2017
-944;Quarterfinalist at ELEAGUE Atlanta 2017
-945;Bronze Atlanta 2017 Pick'Em Trophy
-946;Silver Atlanta 2017 Pick'Em Trophy
-947;Gold Atlanta 2017 Pick'Em Trophy
-948;Champion at PGL Krakow 2017
-949;Finalist at PGL Krakow 2017
-950;Semifinalist at PGL Krakow 2017
-951;Quarterfinalist at PGL Krakow 2017
-952;Bronze Krakow 2017 Pick'Em Trophy
-953;Silver Krakow 2017 Pick'Em Trophy
-954;Gold Krakow 2017 Pick'Em Trophy
-955;Champion at ELEAGUE Boston 2018
-956;Finalist at ELEAGUE Boston 2018
-957;Semifinalist at ELEAGUE Boston 2018
-958;Quarterfinalist at ELEAGUE Boston 2018
-959;Bronze Boston 2018 Pick'Em Trophy
-960;Silver Boston 2018 Pick'Em Trophy
-961;Gold Boston 2018 Pick'Em Trophy
-962;Champion at FACEIT London 2018
-963;Finalist at FACEIT London 2018
-964;Semifinalist at FACEIT London 2018
-965;Quarterfinalist at FACEIT London 2018
-966;Bronze London 2018 Pick'Em Trophy
-967;Silver London 2018 Pick'Em Trophy
-968;Gold London 2018 Pick'Em Trophy
-969;10 Year Veteran Coin
-970;Loyalty Badge
-971;Champion at IEM Katowice 2019
-972;Finalist at IEM Katowice 2019
-973;Semifinalist at IEM Katowice 2019
-974;Quarterfinalist at IEM Katowice 2019
-975;Champion at StarLadder Berlin 2019
-976;Finalist at StarLadder Berlin 2019
-977;Semifinalist at StarLadder Berlin 2019
-978;Quarterfinalist at StarLadder Berlin 2019
-979;Champion at PGL Stockholm 2021
-980;Finalist at PGL Stockholm 2021
-981;Semifinalist at PGL Stockholm 2021
-982;Quarterfinalist at PGL Stockholm 2021
-983;Champion at PGL Antwerp 2022
-984;Finalist at PGL Antwerp 2022
-985;Semifinalist at PGL Antwerp 2022
-986;Quarterfinalist at PGL Antwerp 2022
