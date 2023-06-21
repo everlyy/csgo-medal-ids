@@ -38,6 +38,8 @@
 911;Bronze Cluj-Napoca 2015 Pick'Em Trophy
 912;Silver Cluj-Napoca 2015 Pick'Em Trophy
 913;Gold Cluj-Napoca 2015 Pick'Em Trophy
+914;Bronze Cluj-Napoca 2015 Fantasy Trophy
+915;Silver Cluj-Napoca 2015 Fantasy Trophy
 917;Champion at DreamHack Cluj-Napoca 2015
 918;Finalist at DreamHack Cluj-Napoca 2015
 919;Semifinalist at DreamHack Cluj-Napoca 2015
@@ -45,6 +47,7 @@
 921;Bronze Columbus 2016 Pick'Em Trophy
 922;Silver Columbus 2016 Pick'Em Trophy
 923;Gold Columbus 2016 Pick'Em Trophy
+925;Silver Columbus 2016 Fantasy Trophy
 927;Champion at MLG Columbus 2016
 928;Finalist at MLG Columbus 2016
 929;Semifinalist at MLG Columbus 2016
@@ -56,6 +59,7 @@
 935;Bronze Cologne 2016 Pick'Em Trophy
 936;Silver Cologne 2016 Pick'Em Trophy
 937;Gold Cologne 2016 Pick'Em Trophy
+939;Silver Cologne 2016 Fantasy Trophy
 941;Champion at ELEAGUE Atlanta 2017
 942;Finalist at ELEAGUE Atlanta 2017
 943;Semifinalist at ELEAGUE Atlanta 2017
@@ -284,6 +288,16 @@
 4852;Rio 2022 Silver Coin
 4853;Rio 2022 Gold Coin
 4854;Rio 2022 Diamond Coin
+4873;2023 Service Medal (T1)
+4874;2023 Service Medal (T2)
+4875;2023 Service Medal (T3)
+4876;2023 Service Medal (T4)
+4877;2023 Service Medal (T5)
+4878;2023 Service Medal (T6)
+4884;Paris 2023 Coin
+4885;Paris 2023 Silver Coin
+4886;Paris 2023 Gold Coin
+4887;Paris 2023 Diamond Coin
 6001;Genuine Dust II Pin
 6002;Genuine Guardian Elite Pin
 6003;Genuine Mirage Pin
